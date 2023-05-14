@@ -26,4 +26,3 @@ let kilom = 80
 const pipim = 45
 var popom = 90
 console.log("boyum: "+boyum,"kilom: "+kilom,"pipim: "+pipim,"popom: "+popom)
-asdasd
